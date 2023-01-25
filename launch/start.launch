@@ -1,0 +1,3 @@
+<launch>
+  <node name="go1_imu_republisher" pkg="go1_imu_republisher" type="go1_imu_republisher.py" />
+</launch>
